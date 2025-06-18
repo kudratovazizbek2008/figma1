@@ -1,0 +1,37 @@
+.main_text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -0.36px;
+    color: #012F34;
+    margin-left: 92px;
+    margin-top: 60px;
+    margin-bottom: 45px;
+}
+#main_dad{
+    display: grid;
+    grid-template-columns:1.7fr 1.7fr 1fr;
+    gap: 50px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+}
+.colors{
+    display: flex;
+    justify-content: space-between;
+}
+.text_one{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    color: #002529;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.text_two{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    width: 178px;
+}
